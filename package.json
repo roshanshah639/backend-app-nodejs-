@@ -1,0 +1,17 @@
+{
+  "name": "backend-app",
+  "version": "1.0.0",
+  "description": "A backend app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs",
+    "Javascript",
+    "Backend",
+    "Express"
+  ],
+  "author": "Roshan B Shah",
+  "license": "ISC"
+}
